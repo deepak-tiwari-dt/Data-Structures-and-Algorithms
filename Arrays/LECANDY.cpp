@@ -1,6 +1,7 @@
 /**
  *    author: deepaktiwari21
  *    created: 22.01.2022 1:16:29
+ *    Time complexity: O(N)
  **/
 #include <bits/stdc++.h>
 
